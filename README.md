@@ -48,8 +48,11 @@ You can modify the pin configuration in the script if necessary.
 
 The program will attempt to read the battery voltage from the Modbus slave with address `1` and print the result in volts.
 
-## Code Breakdown
+## Techs
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+</div>
 
-### UART Configuration
-```python
-uart = UART(1, baudrate=9600, bits=8, parity=None, stop=1, tx=TX_PIN, rx=RX_PIN)
+###
