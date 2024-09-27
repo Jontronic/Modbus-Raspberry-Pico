@@ -1,4 +1,4 @@
-# Modbus RTU Battery Voltage Reader
+# Modbus protocol - Reading Registers
 
 ![MyLogo](MyLogo.png)
 
