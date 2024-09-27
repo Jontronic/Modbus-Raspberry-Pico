@@ -1,6 +1,6 @@
-# Modbus protocol - Reading Registers
+# Modbus RTU Battery Voltage Reader
 
-![MyLogo](MyLogo.png)
+![MyLogo](images/MyLogo.png)
 
 This project is a Python-based program running on a microcontroller (such as a Raspberry Pi Pico) using the UART interface to communicate with a Modbus RTU device. The program reads the battery voltage register from a connected Modbus slave device (e.g., Renogy Wanderer) and prints the battery voltage.
 
